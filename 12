@@ -447,3 +447,120 @@ http://svtv.xyz:8080/Rigo2/r4TqXGc/447820
 http://svtv.xyz:8080/Rigo2/r4TqXGc/447821
 #EXTINF:-1 tvg-id="" tvg-name="CR7 2 SD" tvg-logo="https://w7.pngwing.com/pngs/902/804/png-transparent-cr7-hd-logo.png" group-title="GOAT",CR7 2 SD
 http://svtv.xyz:8080/Rigo2/r4TqXGc/447823
+#EXTM3U
+#EXTINF:-1,AMC HD
+http://190.61.44.122:8000/play/a02h/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://190.61.44.122:8000/play/a02j/index.m3u8
+#EXTINF:-1,Baby TV
+http://190.61.44.122:8000/play/a08x/index.m3u8
+#EXTINF:-1,CARACOL SD
+http://190.61.44.122:8000/play/a09y/index.m3u8
+#EXTINF:-1,CINE FAMILIAR
+http://190.61.44.122:8000/play/a09e/index.m3u8
+#EXTINF:-1,CINE HISPANO
+http://190.61.44.122:8000/play/a09g/index.m3u8
+#EXTINF:-1,CINE INFANTIL
+http://190.61.44.122:8000/play/a09h/index.m3u8
+#EXTINF:-1,CNN Espaæol
+http://190.61.44.122:8000/play/a03v/index.m3u8
+#EXTINF:-1,CableNoticias
+http://190.61.44.122:8000/play/a03o/index.m3u8
+#EXTINF:-1,Canal 24 Horas HD
+http://190.61.44.122:8000/play/a0ac/index.m3u8
+#EXTINF:-1,Caracol
+http://190.61.44.122:8000/play/a046/index.m3u8
+#EXTINF:-1,Caracol HD
+http://190.61.44.122:8000/play/a047/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://190.61.44.122:8000/play/a02i/index.m3u8
+#EXTINF:-1,DHE HD
+http://190.61.44.122:8000/play/a02r/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://190.61.44.122:8000/play/a02m/index.m3u8
+#EXTINF:-1,Discovery HD
+http://190.61.44.122:8000/play/a07k/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://190.61.44.122:8000/play/a02l/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://190.61.44.122:8000/play/a082/index.m3u8
+#EXTINF:-1,Disney HD
+http://190.61.44.122:8000/play/a026/index.m3u8
+#EXTINF:-1,E! SD
+http://190.61.44.122:8000/play/a02t/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://190.61.44.122:8000/play/a09v/index.m3u8
+#EXTINF:-1,ESPN HD.
+http://190.61.44.122:8000/play/a05c/index.m3u8
+#EXTINF:-1,Europa Europa
+http://190.61.44.122:8000/play/a037/index.m3u8
+#EXTINF:-1,FX HD
+http://190.61.44.122:8000/play/a0a5/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://190.61.44.122:8000/play/a029/index.m3u8
+#EXTINF:-1,HGTV
+http://190.61.44.122:8000/play/a05p/index.m3u8
+#EXTINF:-1,HTV
+http://190.61.44.122:8000/play/a03n/index.m3u8
+#EXTINF:-1,History 2 HD
+http://190.61.44.122:8000/play/a03h/index.m3u8
+#EXTINF:-1,History Channel HD
+http://190.61.44.122:8000/play/a03a/index.m3u8
+#EXTINF:-1,ID HD
+http://190.61.44.122:8000/play/a02a/index.m3u8
+#EXTINF:-1,IVC
+http://190.61.44.122:8000/play/a0ae/index.m3u8
+#EXTINF:-1,Las Estrellas
+http://190.61.44.122:8000/play/a084/index.m3u8
+#EXTINF:-1,Lifetime
+http://190.61.44.122:8000/play/a086/index.m3u8
+#EXTINF:-1,Love Nature HD
+http://190.61.44.122:8000/play/a07s/index.m3u8
+#EXTINF:-1,MUSICA HITS
+http://190.61.44.122:8000/play/a09n/index.m3u8
+#EXTINF:-1,MUSICA REGUETOON
+http://190.61.44.122:8000/play/a09i/index.m3u8
+#EXTINF:-1,NTN 24 Horas
+http://190.61.44.122:8000/play/a04b/index.m3u8
+#EXTINF:-1,Nuestra Tele
+http://190.61.44.122:8000/play/a096/index.m3u8
+#EXTINF:-1,PRUEBAS
+http://190.61.44.122:8000/play/a08n/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://190.61.44.122:8000/play/a025/index.m3u8
+#EXTINF:-1,RANCHENATO
+http://190.61.44.122:8000/play/a09r/index.m3u8
+#EXTINF:-1,RCN
+http://190.61.44.122:8000/play/a095/index.m3u8
+#EXTINF:-1,RCN SD
+http://190.61.44.122:8000/play/a09x/index.m3u8
+#EXTINF:-1,STAR CHANNEL COL HD
+http://190.61.44.122:8000/play/a0a8/index.m3u8
+#EXTINF:-1,STAR TVE HD
+http://190.61.44.122:8000/play/a0a7/index.m3u8
+#EXTINF:-1,Sony HD
+http://190.61.44.122:8000/play/a03c/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://190.61.44.122:8000/play/a0a6/index.m3u8
+#EXTINF:-1,Sun Channel
+http://190.61.44.122:8000/play/a09z/index.m3u8
+#EXTINF:-1,TLC
+http://190.61.44.122:8000/play/a03l/index.m3u8
+#EXTINF:-1,TNT HD
+http://190.61.44.122:8000/play/a027/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://190.61.44.122:8000/play/a02n/index.m3u8
+#EXTINF:-1,TRUTV HD
+http://190.61.44.122:8000/play/a02b/index.m3u8
+#EXTINF:-1,TV+ HD
+http://190.61.44.122:8000/play/a0ab/index.m3u8
+#EXTINF:-1,Tooncast
+http://190.61.44.122:8000/play/a03k/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://190.61.44.122:8000/play/a0a4/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://190.61.44.122:8000/play/a03d/index.m3u8
+#EXTINF:-1,Win Sports + 
+http://190.61.44.122:8000/play/a09u/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://190.61.44.122:8000/play/a03u/index.m3u8
